@@ -1,0 +1,3 @@
+plugin name, author, img, screenshot img1,screenshot img2,screenshot img3, version, last updated, tested up to, description details, description installation, tags, wordpress url, download url
+
+img es la principal,,, y screenshot img son las imagenes abajo en la description

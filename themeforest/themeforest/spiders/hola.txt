@@ -1,0 +1,60 @@
+
+
+
+<span class="dfirst">{lista1}<strong>Download {firstname} {lastversion} {lastname}</strong> {lista2}. <strong>Buy {firstname} {lastversion}</strong> {lista3} and {lista4} it for your {lista5}. This {lista6} was released on {created} and updated on {updated}. Also it is compatible with {compatible}.</span>
+
+<span class="dsecond">{lista7}</span> <span class="desctheme"><insert description></span> <span class="dthird">{lista8} Let's check out:</span>
+
+		lista1 = [
+			"Now you can",
+			"It's the time!",
+			"It's the time! You can",
+			"How to",
+			"Let's",
+			"Today you can"]
+
+		lista2 = [
+			"for free.",
+			"free.",
+			"free and safe."]	
+
+		lista3 = [
+			"we plugin",
+			"plugin"]
+
+		lista4 = [
+			"install",
+			"use"]	
+
+		lista5 = [
+			"project.",
+			"personal or business site.",
+			"own project.",
+			"client."]
+
+		lista6 = [
+			"WP Plugin",
+			"Plugin",
+			"wordpress plugin",
+			"themeforest plugin"]	
+
+		lista7 = [
+			"What could you do with this awesome wp-plugin?",
+			"What can you do with this wp plugin?",
+			"What could you do with this great plugin?",
+			"What could you do with this template?",
+			"Check out what everyone is talking about this wpplugin.",
+			"Why you should buy this plugin?",
+			"Why you should buy this wordpress plugin?"]
+
+		lista8 = [
+			"Are you thinking of buying {first} plugin?".format(first=first_name),
+			"Are you thinking of buying this wordpress plugin?",
+			"Are you thinking of installing this wp-plugin?",
+			"Do you want to buy {name}?".format(name=full_name),
+			"Do you want to buy {first}?".format(first=first_name)
+		]
+
+
+
+		<span class='dfirst'>Today you can<strong>Download Timelines for Elementor Page Builder</strong> free and safe.. <strong>Buy Timelines for Elementor Page Builder</strong> we plugin and install it for your client.. This Plugin was released on 27 September 18 and updated on 27 September 18.</span><span class='dsecond'>Why you should buy this wordpress plugin?</span> <span class='desctheme'>['The best Timelines pack for Elementor page builder. Choose from 15 different customisable Timeline layouts we created just for your needs. This pack is truly awesome and unique in its design and usability.\n']</span> <span class='dthird'>Are you thinking of installing this wp-plugin? Let's check out:</span>
